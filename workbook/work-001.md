@@ -8,7 +8,7 @@
 
 $$
 \begin{aligned}
-^t(AB) &= \\
+(AB)^T &= \\
 (AB)^{-1} &= \\
 (A+B)^2 &=
 \end{aligned}
