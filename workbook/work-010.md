@@ -16,7 +16,7 @@ $$
 
 分散は
 $$
-\text{Var}(\bm{u}_1^T \bm{x}) = \frac{1}{N}\sum_i^N \{ \bm{u}_1^T\bm{x}_i - \bm{u}_1^T \overline{\bm{x}} \} = \bm{u}_1^T \bf{\Sigma} \bm{u}_1
+\text{Var}(\bm{u}_1^T \bm{x}) = \frac{1}{N}\sum_i^N \{ \bm{u}_1^T\bm{x}_i - \bm{u}_1^T \overline{\bm{x}} \}^2 = \bm{u}_1^T \bf{\Sigma} \bm{u}_1
 $$
 
 となる。
